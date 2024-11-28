@@ -70,18 +70,12 @@ Future Enhancements
 	•	Include additional weather details like UV index, sunrise/sunset times.
 	•	Improve accessibility for a wider range of users.
 
-Notes
-
-	1.	Ensure you have a valid API key from OpenWeatherMap and include it in your .env file as:
-
 REACT_APP_WEATHER_API_KEY=18b92e7ad8cbfcf412191b4b09f5a796
 
 
-	2.	If the images are not loading in the README.md on GitHub, ensure the screenshot folder and its files are committed and pushed.
-
 Author
 
-	•	Name: Vijay Patel
+	•	Name:Diya  VijayKumar  Patel
 	•	Student ID: 101414516
 
 1. Postman Response
